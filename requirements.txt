@@ -5,6 +5,7 @@ asyncio==3.4.3
 sentence-transformers==2.7.0
 transformers==4.40.2
 faster-whisper==1.2.0
-torchvision~=0.24.0
-torch~=2.9.0
+torchvision~=0.23.0
+torch~=2.8.0
 numpy~=1.26.4
+torchaudio~=2.8.0
